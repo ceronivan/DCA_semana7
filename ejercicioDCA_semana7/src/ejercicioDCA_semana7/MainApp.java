@@ -21,6 +21,7 @@ public class MainApp {
 
 	public void settings() {
 		size(1200, 700);
+		//hola
 
 	}
 
