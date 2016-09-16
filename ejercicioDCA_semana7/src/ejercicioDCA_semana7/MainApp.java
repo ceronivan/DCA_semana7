@@ -1,17 +1,4 @@
-	package ejercicioDCA_semana7;
-
-
-import processing.core.PApplet;
-
-
-import processing.core.PApplet;
-
-
-import processing.core.PApplet;
-
-
-import processing.core.PApplet;
-
+package ejercicioDCA_semana7;
 
 import processing.core.PApplet;
 
